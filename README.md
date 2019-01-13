@@ -12,4 +12,4 @@ The subjects are recorded by subject code and subject name. A subject will be ta
 
 Each subject requires students to finish a number of assignments, reports, in-class assignments and examinations. Practical subjects consist of a number of lab assignments, practical demonstrations, project and examinations. The results of all the assessments will be recorded. Grades will be granted based on the final results. All the students will receive a report of their results of the enrolled subjects three weeks after the examination via their university email.;
 
-Implementation -<a href='https://github.com/GayanSampathManamendra/university_System/blob/master/report.pdf'>Report</a>
+ <a href='https://github.com/GayanSampathManamendra/university_System/blob/master/report.pdf'>Implementation Report</a>
