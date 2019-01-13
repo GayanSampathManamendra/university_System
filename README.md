@@ -1,4 +1,4 @@
-Scenario
+<h2><i>Scenario</i></h2>
 
 NSBM Green University (NSBM) requests you to design a course enrollment system. The NSBM enrollment system is expected to store and maintain enrollment activities and records for all students in three faculties: School of Business, School of Computing and School of Engineering.;
 
